@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286843489171",
+    "project_id": "testnotifications-2efc1",
+    "storage_bucket": "testnotifications-2efc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286843489171:android:f439a60f6cc4cb0b483666",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_front_end"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklx_7X-CE0xzoUsF38TJj7243yvGaDfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
